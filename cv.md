@@ -80,10 +80,10 @@ _12/2021_
 - Preprocessors (Sсss)
 
 - Adobe Photoshop
+- 
+- GitHub/GitLab
 
 - Figma
-
-- Git
 
 ### LANGUAGES
 
