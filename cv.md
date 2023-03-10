@@ -68,21 +68,13 @@ _12/2021_
 ### TECHNICAL SKILLS
 
 - HTML5
-
 - CSS3
-
 - jQuery
-
 - JavaScript
-
 - CSS Frameworks (Bootstrap)
-
 - Preprocessors (Sсss)
-
 - Adobe Photoshop
-- 
 - GitHub/GitLab
-
 - Figma
 
 ### LANGUAGES
